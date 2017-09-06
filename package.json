@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@polymer/polymer": "next",
+    "@webcomponents/webcomponentsjs": "^1.0.10"
+  }
+}
