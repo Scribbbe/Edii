@@ -1,6 +1,6 @@
 # Scribe
 
-## An editor's content workflow system.
+## An editor's content workflow system
 
 Developed as a [JAMStack](https://jamstack.org/) development platform that provides the moving parts for managing content and content types, static pages, and creating a planning and editor's platform to manage workflows.
 
