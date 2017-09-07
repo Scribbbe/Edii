@@ -1,0 +1,9 @@
+{
+  "name": "edii",
+  "version": "0.1.0",
+  "description": "Edii gives insight into upcoming needs",
+  "main": "app/main.js",
+  "repository": "https://github.com/ScribeHouse/Edii.git",
+  "author": "Darren <darren@odden.io>",
+  "license": "BSD-3-Clause"
+}
