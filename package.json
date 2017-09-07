@@ -8,6 +8,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "@polymer/polymer": "next",
-    "@webcomponents/webcomponentsjs": "^1.0.10"
+    "@webcomponents/webcomponentsjs": "^1.0.10",
+    "semver": "^5.4.1"
   }
 }
